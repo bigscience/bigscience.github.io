@@ -8,13 +8,10 @@ This website accompanies the Nature Reviews Physics Perspective on "Visualizing 
 | [https://bigscience.github.io/institutionsmaps/](https://bigscience.github.io/institutionsmaps/) | [https://bigscience.github.io/sciencemaps/](https://bigscience.github.io/sciencemaps/) |
 
 ### Data and Code is available at:
-- [https://bigscience.github.io/bigscience/](https://bigscience.github.io/bigscience/)
+- [https://www.github.com/bigscience/bigscience](https://www.github.com/bigscience/bigscience)
 
 
 ### Static maps for the institution collaboration networks:
-
-
-
 
 
 | <a href="https://bigscience.github.io/Institution Maps All Projects.pdf"><img src="Institution Maps All Projects_thumb.jpg" width="350"></a> |
