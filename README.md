@@ -11,7 +11,7 @@ This website accompanies the Nature Reviews Physics Perspective on "Visualizing 
 - [https://bigscience.github.io/bigscience/](https://bigscience.github.io/bigscience/)
 
 
-### Static maps for the institutions collaboration networks:
+### Static maps for the institution collaboration networks:
 
 
 
@@ -19,4 +19,4 @@ This website accompanies the Nature Reviews Physics Perspective on "Visualizing 
 
 | <a href="https://bigscience.github.io/Institution Maps All Projects.pdf"><img src="Institution Maps All Projects_thumb.jpg" width="350"></a> |
 | :----------------------------------------: |
-|   [Static Institution Collaborations Map](<https://bigscience.github.io/Institution Maps All Projects.pdf>)    |
+|   [Static Institution Collaboration Maps](<https://bigscience.github.io/Institution Maps All Projects.pdf>)    |
